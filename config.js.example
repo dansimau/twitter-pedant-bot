@@ -1,0 +1,13 @@
+module.exports = {
+
+    // Twitter auth details
+    twitter_auth: {
+        consumer_key: '',
+        consumer_secret: '',
+        access_token: '',
+        access_token_secret: '',
+    },
+
+    interval: 60000,
+    phrase: 'bare with me'
+}

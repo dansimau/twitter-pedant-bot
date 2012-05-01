@@ -1,0 +1,7 @@
+{
+  "name": "nakedgrizzly",
+  "version": "1.0",
+  "dependencies": {
+    "twit": "0.1.3"
+  }
+}
