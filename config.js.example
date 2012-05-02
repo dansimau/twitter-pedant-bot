@@ -9,5 +9,6 @@ module.exports = {
     },
 
     interval: 60000,
-    phrase: 'bare with me'
+    phrase: 'bare with me',
+    response: 'I think you mean "bear with me"'
 }
