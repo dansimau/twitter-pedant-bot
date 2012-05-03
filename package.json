@@ -1,5 +1,5 @@
 {
-  "name": "nakedgrizzly",
+  "name": "twitter-pedant-bot",
   "version": "1.0",
   "dependencies": {
     "twit": "0.1.3"
